@@ -5,3 +5,17 @@
 .opacity-5 {
   opacity: 0.5;
 }
+
+.bg-icon {
+  background-color: lightgray;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.icon {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  position: absolute;
+  border: 1px solid white;
+}
